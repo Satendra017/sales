@@ -1,0 +1,6 @@
+streamlit
+pyttsx3
+speechrecognition
+numpy
+pandas
+pickle
